@@ -5,7 +5,7 @@
 
 - 💬 Major Skills **Full Stack Development**
 
-- Portfolio : **<a href="https://utkarshh0.github.io/react-portfolio/" target="_blank">Portfolio</a>**
+- Portfolio : **<a href="https://utkarshh0.vercel.app/" target="_blank">Portfolio</a>**
 
 
 <h3 align="left">Connect with me:</h3>
